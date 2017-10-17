@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-은비짱
+은비가짱
 </body>
 </html>
